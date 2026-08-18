@@ -1,0 +1,5 @@
+name: basic-site
+version: ~
+title: Basic Antora Site
+nav:
+  - modules/ROOT/nav.adoc

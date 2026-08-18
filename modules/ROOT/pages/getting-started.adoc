@@ -1,0 +1,16 @@
+= Getting Started
+
+This is the second page of the site.
+
+== Basic AsciiDoc formatting
+
+Text can be *bold* or _italic_.
+
+You can create a list:
+
+. Install Antora.
+. Write documentation in AsciiDoc.
+. Build the site.
+. Open the generated site in a browser.
+
+Return to xref:index.adoc[the homepage].

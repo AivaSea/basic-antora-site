@@ -1,0 +1,13 @@
+= Welcome to My Antora Site
+
+This is my first documentation site built with Antora.
+
+Antora converts AsciiDoc source files into a static HTML website.
+
+== What is on this site?
+
+This small site contains:
+
+* a homepage;
+* a getting-started page;
+* a navigation menu.
