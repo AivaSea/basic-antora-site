@@ -1,0 +1,7 @@
+= Transactions
+
+This page contains information about payment transactions.
+
+== Payment flow
+
+A transaction represents a payment performed by a customer.

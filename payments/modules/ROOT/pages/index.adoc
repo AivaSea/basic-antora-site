@@ -1,0 +1,5 @@
+= Payments
+
+Welcome to the Payments documentation.
+
+This is a separate Antora component inside the same documentation site.

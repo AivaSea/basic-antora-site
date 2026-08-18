@@ -1,0 +1,5 @@
+name: payments
+version: ~
+title: Payments
+nav:
+- modules/ROOT/nav.adoc

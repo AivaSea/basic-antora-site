@@ -11,3 +11,7 @@ This small site contains:
 * a homepage;
 * a getting-started page;
 * a navigation menu.
+
+== Other documentation
+
+See xref:payments:ROOT:index.adoc[Payments documentation].
